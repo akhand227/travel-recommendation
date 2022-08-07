@@ -2,7 +2,7 @@
 
 Data Source: dset.csv
 
-*Euclidean distance is calculated between the common hotels between travellers. The similarity is indirectly proportional to distance. As the distance increases, similarity decreases and vice versa.*
+<strong>Euclidean distance is calculated between the common hotels between travellers. The similarity is indirectly proportional to distance. As the distance increases, similarity decreases and vice versa.<strong>
 
 *AIM*
 1. Find similar travellers based on user recommendations. 
